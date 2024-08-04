@@ -4,7 +4,7 @@ import ReactDOM from "react-dom/client";
 import App from "./App.tsx";
 
 const fonts = {
-  body: "Spoqa Han Sans, system-ui, sans-serif",
+  body: "Spoqa Han Sans, sans-serif",
   weight: {
     regular: 400,
     medium: 500,
