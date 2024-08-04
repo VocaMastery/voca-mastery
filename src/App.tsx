@@ -1,11 +1,5 @@
-import Sample from "./components/Sample";
-
 function App() {
-  return (
-    <>
-      <Sample text='hello' />
-    </>
-  );
+  return <>App</>;
 }
 
 export default App;
